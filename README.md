@@ -7,7 +7,7 @@
 
 
 ### Files
-> All the files are contained in the zip folder **module4**
+> All the files are contained in the zip folder **Module4**
 1.  **data.csv** is the file containing all the data. The file is same as downloaded from website..
 2.  **ds200.py** is the file containing python code for the creating the graphs using _matplotlib_ library.
 3.   **ds200.ipynb** in the file containing python code from Jupyter Notebook.
